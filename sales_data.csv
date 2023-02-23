@@ -1,0 +1,120 @@
+date,product,store,sales
+2022-01-01,iPhone,Amazon,482.0
+2022-01-01,Motorola,Best Buy,778.0
+2022-01-01,Motorola,Apple Store,294.0
+2022-01-07,LG,Best Buy,875.0
+2022-01-07,Samsung Galaxy,Target,891.0
+2022-01-07,Google Pixel,Target,727.0
+2022-01-14,Samsung Galaxy,Target,143.0
+2022-01-14,Samsung Galaxy,Target,236.0
+2022-01-14,Google Pixel,Walmart,876.0
+2022-01-20,Google Pixel,Target,946.0
+2022-01-20,Google Pixel,Target,946.0
+2022-01-20,LG,Best Buy,974.0
+2022-01-20,iPhone,Walmart,783.0
+2022-01-27,LG,Best Buy,574.0
+2022-02-03,Motorola,Target,115.0
+2022-02-09,iPhone,Amazon,554.0
+2022-02-09,LG,Walmart,387.0
+2022-02-09,LG,Walmart,387.0
+2022-02-16,Google Pixel,Amazon,384.0
+2022-02-16,Motorola,Best Buy,171.0
+2022-02-16,Motorola,Amazon,114.0
+2022-02-16,Motorola,Amazon,114.0
+2022-02-22,iPhone,Walmart,217.0
+2022-02-22,Motorola,Target,899.0
+2022-03-01,Motorola,Walmart,132.0
+2022-03-01,Google Pixel,Apple Store,995.0
+2022-03-01,Motorola,Amazon,637.0
+2022-03-08,Samsung Galaxy,Amazon,525.0
+2022-03-14,LG,Walmart,693.0
+2022-03-14,LG,Apple Store,220.0
+2022-03-21,Google Pixel,Amazon,925.0
+2022-03-21,Motorola,Target,272.0
+2022-03-21,Motorola,Walmart,866.0
+2022-03-28,Motorola,Target,983.0
+2022-03-28,Google Pixel,Apple Store,223.0
+2022-04-03,iPhone,Amazon,770.0
+2022-04-03,Samsung Galaxy,Amazon,671.0
+2022-04-03,Samsung Galaxy,Amazon,671.0
+2022-04-10,Motorola,Amazon,705.0
+2022-04-10,LG,Best Buy,962.0
+2022-04-10,iPhone,Walmart,501.0
+2022-04-16,LG,Walmart,
+2022-04-16,LG,Apple Store,179.0
+2022-04-23,Motorola,Walmart,725.0
+2022-04-30,Motorola,Target,102.0
+2022-04-30,Motorola,Apple Store,247.0
+2022-05-06,Samsung Galaxy,Walmart,140.0
+2022-05-06,Samsung Galaxy,Apple Store,437.0
+2022-05-06,iPhone,Walmart,183.0
+2022-05-13,Google Pixel,Best Buy,604.0
+2022-05-13,Motorola,Target,433.0
+2022-05-19,Samsung Galaxy,Best Buy,500.0
+2022-05-26,Samsung Galaxy,Best Buy,792.0
+2022-06-02,LG,Best Buy,
+2022-06-02,Google Pixel,Amazon,164.0
+2022-06-02,LG,Apple Store,361.0
+2022-06-08,iPhone,Best Buy,115.0
+2022-06-08,iPhone,Target,776.0
+2022-06-15,iPhone,Best Buy,251.0
+2022-06-22,Google Pixel,Target,534.0
+2022-06-22,LG,Walmart,563.0
+2022-06-28,Samsung Galaxy,Apple Store,134.0
+2022-06-28,Google Pixel,Walmart,760.0
+2022-06-28,iPhone,Amazon,252.0
+2022-07-05,iPhone,Best Buy,953.0
+2022-07-11,Motorola,Amazon,914.0
+2022-07-18,Samsung Galaxy,Apple Store,
+2022-07-18,LG,Target,339.0
+2022-07-18,LG,Best Buy,943.0
+2022-07-25,Samsung Galaxy,Target,415.0
+2022-07-25,iPhone,Target,468.0
+2022-07-25,Motorola,Best Buy,152.0
+2022-07-31,Google Pixel,Amazon,179.0
+2022-07-31,iPhone,Apple Store,411.0
+2022-07-31,iPhone,Amazon,940.0
+2022-08-07,Motorola,Apple Store,728.0
+2022-08-07,LG,Apple Store,901.0
+2022-08-07,Motorola,Best Buy,328.0
+2022-08-14,Google Pixel,Target,406.0
+2022-08-14,Motorola,Walmart,
+2022-08-14,LG,Target,678.0
+2022-08-20,Samsung Galaxy,Apple Store,997.0
+2022-08-20,Samsung Galaxy,Best Buy,565.0
+2022-08-20,LG,Apple Store,390.0
+2022-08-27,LG,Target,210.0
+2022-08-27,Samsung Galaxy,Walmart,117.0
+2022-08-27,Motorola,Amazon,870.0
+2022-09-02,LG,Target,720.0
+2022-09-09,Motorola,Amazon,292.0
+2022-09-16,LG,Best Buy,274.0
+2022-09-16,Samsung Galaxy,Target,466.0
+2022-09-16,Samsung Galaxy,Amazon,899.0
+2022-09-22,LG,Target,587.0
+2022-09-29,LG,Best Buy,677.0
+2022-10-05,iPhone,Amazon,353.0
+2022-10-05,LG,Apple Store,231.0
+2022-10-05,LG,Walmart,
+2022-10-12,Google Pixel,Apple Store,665.0
+2022-10-19,Samsung Galaxy,Amazon,577.0
+2022-10-25,Samsung Galaxy,Amazon,586.0
+2022-10-25,Google Pixel,Target,766.0
+2022-10-25,Google Pixel,Target,766.0
+2022-11-01,Google Pixel,Walmart,156.0
+2022-11-01,LG,Apple Store,316.0
+2022-11-01,iPhone,Walmart,172.0
+2022-11-08,LG,Target,798.0
+2022-11-14,Google Pixel,Apple Store,418.0
+2022-11-14,Motorola,Target,954.0
+2022-11-21,iPhone,Target,
+2022-11-21,Google Pixel,Target,314.0
+2022-11-27,Motorola,Amazon,
+2022-12-04,Google Pixel,Amazon,834.0
+2022-12-11,iPhone,Best Buy,657.0
+2022-12-11,iPhone,Target,584.0
+2022-12-17,LG,Walmart,720.0
+2022-12-24,Samsung Galaxy,Best Buy,118.0
+2022-12-31,Samsung Galaxy,Apple Store,177.0
+2022-12-31,Motorola,Apple Store,831.0
+2022-12-31,iPhone,Target,611.0
