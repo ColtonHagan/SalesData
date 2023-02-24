@@ -1,0 +1,210 @@
+date,product,store,sales
+01/01/22,Google Pixel,Best Buy,183.0
+01/01/22,LG,Target,330.0
+01/01/22,Motorola,Best Buy,793.0
+01/01/22,Samsung Galaxy,Amazon,159.0
+01/01/22,iPhone,Walmart,1604.0
+01/07/22,Google Pixel,Apple Store,453.0
+01/07/22,Samsung Galaxy,Amazon,663.0
+01/14/22,Motorola,Best Buy,113.0
+01/21/22,Motorola,Target,360.0
+01/21/22,Samsung Galaxy,Best Buy,520.0
+01/21/22,Samsung Galaxy,Target,729.0
+01/21/22,iPhone,Amazon,998.0
+01/21/22,iPhone,Best Buy,653.0
+01/27/22,Google Pixel,Apple Store,1518.0
+01/27/22,Google Pixel,Best Buy,219.0
+01/27/22,Motorola,Best Buy,859.0
+01/27/22,Motorola,Walmart,947.0
+01/27/22,Samsung Galaxy,Walmart,110.0
+01/27/22,iPhone,Apple Store,446.0
+02/03/22,LG,Apple Store,1173.0
+02/03/22,Motorola,Apple Store,950.0
+02/03/22,Motorola,Walmart,358.0
+02/03/22,iPhone,Apple Store,936.0
+02/03/22,iPhone,Best Buy,308.0
+02/10/22,LG,Apple Store,762.0
+02/10/22,Motorola,Amazon,123.0
+02/10/22,Motorola,Apple Store,230.0
+02/10/22,Motorola,Walmart,833.0
+02/10/22,Samsung Galaxy,Walmart,383.0
+02/17/22,Google Pixel,Walmart,435.0
+02/17/22,LG,Best Buy,254.0
+02/23/22,Google Pixel,Best Buy,902.0
+02/23/22,Google Pixel,Target,360.0
+02/23/22,LG,Apple Store,673.0
+02/23/22,LG,Best Buy,293.0
+02/23/22,Motorola,Best Buy,395.0
+02/23/22,Samsung Galaxy,Apple Store,580.0
+02/23/22,iPhone,Walmart,682.0
+03/02/22,Google Pixel,Amazon,661.0
+03/02/22,Google Pixel,Apple Store,147.0
+03/02/22,LG,Best Buy,718.0
+03/02/22,LG,Target,750.0
+03/02/22,Motorola,Apple Store,926.0
+03/02/22,Samsung Galaxy,Walmart,818.0
+03/02/22,iPhone,Walmart,336.0
+03/09/22,Google Pixel,Walmart,117.0
+03/16/22,Google Pixel,Apple Store,120.0
+03/16/22,Google Pixel,Best Buy,457.0
+03/16/22,Google Pixel,Target,830.0
+03/16/22,Motorola,Amazon,1216.0
+03/16/22,iPhone,Best Buy,695.0
+03/22/22,LG,Amazon,389.0
+03/22/22,Motorola,Best Buy,344.0
+03/29/22,Motorola,Apple Store,749.0
+03/29/22,Motorola,Best Buy,940.0
+03/29/22,Samsung Galaxy,Best Buy,1706.0
+03/29/22,iPhone,Amazon,225.0
+03/29/22,iPhone,Best Buy,698.0
+04/05/22,Google Pixel,Amazon,1218.0
+04/05/22,Google Pixel,Best Buy,444.0
+04/05/22,Google Pixel,Walmart,386.0
+04/05/22,LG,Best Buy,411.0
+04/05/22,LG,Target,1178.0
+04/05/22,iPhone,Best Buy,343.0
+04/12/22,Google Pixel,Amazon,758.0
+04/12/22,Google Pixel,Best Buy,133.0
+04/12/22,Motorola,Apple Store,307.0
+04/12/22,iPhone,Walmart,252.0
+04/18/22,Google Pixel,Amazon,904.0
+04/18/22,LG,Amazon,592.0
+04/18/22,LG,Apple Store,991.0
+04/18/22,Motorola,Walmart,845.0
+04/18/22,Samsung Galaxy,Amazon,744.0
+04/18/22,Samsung Galaxy,Target,401.0
+04/18/22,iPhone,Apple Store,264.0
+04/25/22,Google Pixel,Walmart,586.0
+04/25/22,Motorola,Target,665.0
+04/25/22,Motorola,Walmart,744.0
+04/25/22,Samsung Galaxy,Apple Store,368.0
+04/25/22,Samsung Galaxy,Walmart,961.0
+05/02/22,iPhone,Apple Store,729.0
+05/02/22,iPhone,Target,875.0
+05/09/22,LG,Best Buy,465.0
+05/09/22,Samsung Galaxy,Target,707.0
+05/09/22,Samsung Galaxy,Walmart,184.0
+05/15/22,Motorola,Walmart,213.0
+05/15/22,Samsung Galaxy,Apple Store,349.0
+05/15/22,iPhone,Walmart,442.0
+05/22/22,LG,Apple Store,215.0
+05/22/22,Motorola,Apple Store,700.0
+05/22/22,Motorola,Target,523.0
+05/22/22,Samsung Galaxy,Amazon,857.0
+05/22/22,iPhone,Amazon,316.0
+05/22/22,iPhone,Best Buy,1145.0
+05/29/22,LG,Apple Store,830.0
+05/29/22,LG,Target,720.0
+06/05/22,Google Pixel,Best Buy,130.0
+06/05/22,LG,Amazon,116.0
+06/11/22,iPhone,Amazon,628.0
+06/18/22,LG,Apple Store,920.0
+06/18/22,Motorola,Best Buy,608.0
+06/25/22,Google Pixel,Best Buy,721.0
+06/25/22,LG,Apple Store,208.0
+07/02/22,LG,Walmart,726.0
+07/02/22,Motorola,Apple Store,553.0
+07/02/22,Motorola,Walmart,698.0
+07/02/22,Samsung Galaxy,Target,190.0
+07/02/22,iPhone,Best Buy,458.0
+07/02/22,iPhone,Target,911.0
+07/08/22,Google Pixel,Amazon,347.0
+07/08/22,Google Pixel,Walmart,1100.0
+07/08/22,LG,Amazon,258.0
+07/08/22,Motorola,Apple Store,748.0
+07/08/22,Motorola,Walmart,764.0
+07/08/22,Samsung Galaxy,Apple Store,312.0
+07/08/22,iPhone,Apple Store,967.0
+07/15/22,LG,Best Buy,768.0
+07/15/22,LG,Target,655.0
+07/15/22,Samsung Galaxy,Target,953.0
+07/15/22,iPhone,Target,292.0
+07/15/22,iPhone,Walmart,630.0
+07/22/22,Google Pixel,Apple Store,929.0
+07/28/22,Motorola,Amazon,1395.0
+07/28/22,Samsung Galaxy,Apple Store,940.0
+08/04/22,Google Pixel,Apple Store,122.0
+08/04/22,Google Pixel,Best Buy,1325.0
+08/04/22,LG,Apple Store,592.0
+08/04/22,LG,Walmart,294.0
+08/04/22,Motorola,Target,227.0
+08/04/22,iPhone,Walmart,230.0
+08/11/22,LG,Best Buy,803.0
+08/11/22,Motorola,Amazon,1235.0
+08/11/22,Samsung Galaxy,Walmart,1576.0
+08/11/22,iPhone,Target,802.0
+08/18/22,iPhone,Best Buy,562.0
+08/24/22,Google Pixel,Best Buy,756.0
+08/24/22,LG,Apple Store,577.0
+08/24/22,LG,Walmart,906.0
+08/24/22,Motorola,Best Buy,547.0
+08/24/22,Motorola,Target,612.0
+08/31/22,Google Pixel,Target,1727.0
+08/31/22,LG,Best Buy,311.0
+08/31/22,Motorola,Amazon,317.0
+08/31/22,Motorola,Walmart,683.0
+08/31/22,iPhone,Apple Store,248.0
+09/07/22,Motorola,Amazon,567.0
+09/14/22,Google Pixel,Best Buy,241.0
+09/14/22,LG,Walmart,1369.0
+09/14/22,Motorola,Amazon,543.0
+09/14/22,Motorola,Walmart,634.0
+09/14/22,Samsung Galaxy,Target,416.0
+09/14/22,iPhone,Best Buy,389.0
+09/20/22,iPhone,Walmart,821.0
+09/27/22,iPhone,Apple Store,536.0
+09/27/22,iPhone,Best Buy,853.0
+09/27/22,iPhone,Target,761.0
+10/04/22,Google Pixel,Best Buy,481.0
+10/04/22,Motorola,Target,957.0
+10/04/22,iPhone,Walmart,340.0
+10/11/22,iPhone,Apple Store,787.0
+10/17/22,Samsung Galaxy,Target,673.0
+10/24/22,Google Pixel,Amazon,991.0
+10/24/22,LG,Walmart,1305.0
+10/24/22,Motorola,Walmart,390.0
+10/24/22,Samsung Galaxy,Target,111.0
+10/31/22,LG,Target,748.0
+10/31/22,Motorola,Apple Store,480.0
+10/31/22,Samsung Galaxy,Apple Store,244.0
+10/31/22,Samsung Galaxy,Target,990.0
+10/31/22,iPhone,Amazon,713.0
+11/07/22,Google Pixel,Amazon,2454.0
+11/07/22,LG,Apple Store,869.0
+11/07/22,Samsung Galaxy,Best Buy,1925.0
+11/07/22,Samsung Galaxy,Target,632.0
+11/13/22,LG,Apple Store,966.0
+11/13/22,Motorola,Amazon,769.0
+11/13/22,Samsung Galaxy,Apple Store,609.0
+11/13/22,Samsung Galaxy,Walmart,833.0
+11/20/22,Google Pixel,Apple Store,742.0
+11/27/22,LG,Amazon,1256.0
+11/27/22,LG,Apple Store,402.0
+11/27/22,Motorola,Apple Store,856.0
+11/27/22,iPhone,Apple Store,407.0
+11/27/22,iPhone,Best Buy,624.0
+12/04/22,Google Pixel,Target,562.0
+12/04/22,LG,Target,400.0
+12/04/22,Samsung Galaxy,Best Buy,479.0
+12/04/22,Samsung Galaxy,Walmart,865.0
+12/04/22,iPhone,Amazon,562.0
+12/04/22,iPhone,Best Buy,129.0
+12/04/22,iPhone,Target,744.0
+12/10/22,Google Pixel,Amazon,180.0
+12/10/22,Google Pixel,Apple Store,824.0
+12/10/22,Google Pixel,Walmart,260.0
+12/10/22,LG,Apple Store,351.0
+12/10/22,Samsung Galaxy,Target,689.0
+12/10/22,iPhone,Apple Store,102.0
+12/10/22,iPhone,Target,155.0
+12/17/22,Google Pixel,Amazon,793.0
+12/17/22,Google Pixel,Best Buy,922.0
+12/24/22,LG,Apple Store,196.0
+12/24/22,Motorola,Target,955.0
+12/24/22,Motorola,Walmart,461.0
+12/24/22,Samsung Galaxy,Target,525.0
+12/24/22,iPhone,Best Buy,494.0
+12/31/22,Samsung Galaxy,Target,230.0
+12/31/22,Samsung Galaxy,Walmart,444.0
+12/31/22,iPhone,Apple Store,224.0
+12/31/22,iPhone,Walmart,493.0

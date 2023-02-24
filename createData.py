@@ -26,7 +26,7 @@ data_dict = {
 
 # Create columns and generate missing values in random locations
 for i in range(num_days):
-    for j in range(np.random.randint(1, 4)):
+    for j in range(np.random.randint(1, 10)):
         data_dict['date'].append(dates[i].date())
         data_dict['product'].append(np.random.choice(products))
         data_dict['store'].append(np.random.choice(stores))
