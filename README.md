@@ -1,5 +1,5 @@
-# This is chat GPT generated question I am using for some basic python review before interview 
-
+## Basic pandas review
+# I used chat GPT generated question I am using for some very basic python pandas review before interview 
 
 Project Idea: Analyzing Sales Data with Pandas
 
